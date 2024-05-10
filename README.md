@@ -1,3 +1,6 @@
-# tugasapi
+# Tugas-API
 
-A new Flutter project.
+Menampilkan Disney Characters
+
+Link: https://api.disneyapi.dev/character
+
